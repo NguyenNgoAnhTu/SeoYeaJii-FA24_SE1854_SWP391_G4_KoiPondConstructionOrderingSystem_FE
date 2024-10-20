@@ -11,6 +11,7 @@
     "plugin:react-hooks/recommended"
   ],
   "rules": {
+    "@typescript-eslint/no-explicit-any": ["off"],
     "@typescript-eslint/ban-ts-comment": "warn",
     "comma-dangle": "off",
     "multiline-ternary": "off",
