@@ -46,6 +46,7 @@ module.exports = {
         DEFAULT: "#404040",
       },
       green: "#3bca88",
+      "cream-white": "#f2f0e1",
     },
     extend: {
       maxWidth: {
